@@ -15,5 +15,5 @@ elif select == "Division":
 if st.button("CALCULATE!"):
   st.write(f"The {select} of {a} and {b} is {calc}")
       
-     
+       
   
